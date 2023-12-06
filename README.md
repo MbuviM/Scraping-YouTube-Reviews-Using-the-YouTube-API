@@ -35,13 +35,15 @@ To fetch captions for a single video, modify the `playlist_or_video_ids` variabl
 ```python
 playlist_or_video_ids = "YOUR_VIDEO_ID"
 
-## Run the script using the terminal with the following command
+Run the script using the terminal with the following command
 
-```python Youtube.py ```
+    python Youtube.py 
 
-## To fetch the captions modify the following code
+To fetch the captions modify the following code
 
-```playlist_or_video_ids = ["YOUR_PLAYLIST_ID"]```
+    playlist_or_video_ids = ["YOUR_PLAYLIST_ID"]
+
+```
 
 # License
 
