@@ -45,10 +45,6 @@ To fetch the captions modify the following code
 
 ```
 
-# License
-
-This project is licensed under the MIT License.
-
 Feel free to customize and expand upon this README file to include additional information, setup instructions, or any other relevant details pertaining to your project's requirements and usage.
 
 
